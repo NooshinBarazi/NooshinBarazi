@@ -4,7 +4,9 @@
 **NooshinBarazi/NooshinBarazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Welcome to my GitHub account!
+I'm a passionate frontend developer with experience in creating user-friendly and visually appealing web applications.
+This repository serves as a portfolio of my projects and showcases my skills in HTML, CSS, JavaScript, Reactjs, Nextjs and Typescript.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
