@@ -1,5 +1,6 @@
 
-👋 Hey! I'm a frontend developer who enjoys turning ideas into smooth, scalable, and user-friendly web experiences using React, Next.js, and other modern tools.
+👋 Hey!
+I'm a frontend developer who enjoys turning ideas into smooth, scalable, and user-friendly web experiences using React, Next.js, and other modern tools.
 
 For me, frontend isn't just about code — it’s where logic meets creativity. I love the challenge of building fast apps that also feel good to use.
 
